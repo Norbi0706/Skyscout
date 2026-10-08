@@ -1,1 +1,1 @@
-# Skyscout-
+# Skyscout
